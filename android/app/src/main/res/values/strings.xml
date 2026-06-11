@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">assistente-juridico-app</string>
+  <string name="title_activity_main">assistente-juridico-app</string>
+  <string name="custom_url_scheme">commeuappassistentejuridicoapp</string>
+</resources>
